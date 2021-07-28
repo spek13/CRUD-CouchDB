@@ -25,7 +25,13 @@ npm run dep
 ```
 
 ## Construido con 🛠️
-Nodejs Express
+
+* [CouchDB](http://couchdb.apache.org/) - NoSQL document oriented database which is an AP(Highly Available and Partition tolerant) system with eventual consistency
+* [Node](https://nodejs.org/en/) - Java Script runtime
+* [npm](https://www.npmjs.com/) - Package Manager for Node
+* [Typescript](https://www.typescriptlang.org/) - A superset of JavaScript
+* [Express](https://expressjs.com/) - Minimalist web framework for Node
+* [Nano](https://www.npmjs.com/package/nano) - Offical Apache CouchDB library for Node.js
 
 ## Autor ✒️
 
