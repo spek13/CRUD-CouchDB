@@ -33,6 +33,10 @@ npm run dep
 * [Express](https://expressjs.com/) - Minimalist web framework for Node
 * [Nano](https://www.npmjs.com/package/nano) - Offical Apache CouchDB library for Node.js
 
+## Documentación de la API ⌨️
+ 
+
+* **API** - *Trabajo* - [API](https://documenter.getpostman.com/view/16820982/TzsbKT5q)
 ## Autor ✒️
 
 
