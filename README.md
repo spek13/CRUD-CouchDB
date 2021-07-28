@@ -36,7 +36,7 @@ npm run dep
 ## Autor ✒️
 
 
-* **Damián Mejía** - *Trabajo* - [Damian Mejía](https://github.com/spek13/Compilador)
+* **Damián Mejía** - *Trabajo* - [Damian Mejía](https://github.com/spek13/)
 
 
 ## Licencia 📄
@@ -46,7 +46,7 @@ Software libre
 ## Expresiones de Gratitud 🎁
 
 * Follow me 📢
-* Invita un café ☕ a 
+* Invita un café ☕ a  **Damián Mejía** - [Damian Mejía](https://github.com/spek13/)
 * Da las gracias públicamente 🤓.
 * etc.
 
